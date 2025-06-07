@@ -1,4 +1,4 @@
-# Hi there, I'm cfrancisx 👋
+# Hi there, I'm Chukwuebuka Francis 👋
 
 I'm a passionate **Frontend Developer** specializing in building modern, responsive websites and web applications. My primary tools are **HTML**, **CSS**, and **JavaScript**. I love translating ideas into interactive, user-friendly digital experiences.
 
